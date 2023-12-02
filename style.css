@@ -28,6 +28,7 @@ h2 {
   }
   
   .servicos {
+    margin-top: 3%;
     width: 100vw;
     height: 300px;
     display: flex;
